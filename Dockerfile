@@ -1,4 +1,4 @@
-FROM docker.io/centos/php-71-centos7
+FROM php-71-centos7
 
 ADD app /opt/app-root/src
 
